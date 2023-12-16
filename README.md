@@ -9,6 +9,6 @@ circuits and calculate fidelities.
 
 
 
-In the file "For_zero_fidelity", we show how SPAM errors affect zero-fidelity because zero-fidelity is not robust SPAM errors. And we also show how different zero-fidelity cause by using different channels. The detail of difference is mentioned in the paper "Making the zeroth-order process fidelity independent of state preparation and measurement errors".
+In the file "For_zero_fidelity", we show how SPAM errors affect zero-fidelity as zero-fidelity is not robust to SPAM errors. Here, we also show how zero-fidelity varies depending on different channels. The details are described in the paper.
 
-In the files
+Files "Two-qubit RB code" and "Three-qubit RB code" show how we make zero-fidelity independent of SPAM errors by combining it with randomized benchmarking.
