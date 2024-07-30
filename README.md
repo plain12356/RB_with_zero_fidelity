@@ -1,4 +1,4 @@
-# RB_with_zero_fidelity
+# Making the zero-fidelity robust to SPAM errors
 This is the accompanying code for the paper
 'Making the zeroth-order process fidelity independent of state preparation and measurement errors'
 Yu-Hao Chen, Renata Wong, Hi-Sheng Goan
